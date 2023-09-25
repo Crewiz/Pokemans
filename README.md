@@ -1,3 +1,3 @@
 # Pokemans
 
-A simple pokemongame
+A simple pokemon-game
