@@ -1,0 +1,3 @@
+# Pokemans
+
+A simple pokemongame
